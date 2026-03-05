@@ -1,6 +1,9 @@
 
 # 🚖 Uber Ride Analysis Dashboard | Power BI Project
 
+![Uber Dashboard ](https://raw.githubusercontent.com/nikitawarade11/Uber-Dashboard-Project/main/uber1.png)
+
+
 ## 📌 Project Overview
 
 This project presents an **interactive Uber Ride Analysis Dashboard** developed using **Microsoft Power BI**.  
@@ -159,6 +162,20 @@ Ratings are compared across vehicle types including:
 ![Uber Dashboard 5](https://raw.githubusercontent.com/nikitawarade11/Uber-Dashboard-Project/main/uber5.png)
 
 ---
+
+## 🔄 Project Workflow
+
+Raw Dataset  
+⬇  
+Data Cleaning (Power Query)  
+⬇  
+Data Modeling  
+⬇  
+DAX Measures  
+⬇  
+Interactive Dashboard  
+⬇  
+Business Insights
 
 ## 💼 Project Purpose
 
